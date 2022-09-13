@@ -66,7 +66,7 @@ public class TelaCaneta extends javax.swing.JFrame {
 
         jLabel5.setText("carga");
 
-        jLabel6.setText("tampa");
+        jLabel6.setText("tampada?");
 
         btnSalvar.setText("Salvar");
         btnSalvar.addActionListener(new java.awt.event.ActionListener() {
